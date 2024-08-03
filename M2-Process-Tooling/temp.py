@@ -8,10 +8,6 @@ iris_df = pd.DataFrame(data=iris.data, columns=iris.feature_names)
 iris_df['target'] = iris.target
 
 # Save to CSV
-iris_df.to_csv('iris.csv', index=False)
+iris_df.to_csv('iris_full.csv', index=False)
 
 
-# Run experiments with different parameters
-train_model(10, 2)
-train_model(50, 5)
-train_model(100, 10)

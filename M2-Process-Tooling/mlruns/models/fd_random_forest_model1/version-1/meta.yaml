@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1722665129155
+current_stage: None
+description: null
+last_updated_timestamp: 1722665129155
+name: fd_random_forest_model1
+run_id: 5c2daf1ed1c14b08bd44c9a4c6dcda64
+run_link: null
+source: file:///C:/Users/nisshah/OneDrive%20-%20Microsoft/BITS/Sem3/04.%20Semester-3/04.%20Semester-3/01.%20ML%20Operations/Assignment1/M2-Process-Tooling/mlruns/711318012279844930/5c2daf1ed1c14b08bd44c9a4c6dcda64/artifacts/fd_random_forest_model1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/nisshah/OneDrive%20-%20Microsoft/BITS/Sem3/04.%20Semester-3/04.%20Semester-3/01.%20ML%20Operations/Assignment1/M2-Process-Tooling/mlruns/711318012279844930/5c2daf1ed1c14b08bd44c9a4c6dcda64/artifacts/fd_random_forest_model1
+user_id: null
+version: 1

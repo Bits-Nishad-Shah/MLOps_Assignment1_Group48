@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nisshah/OneDrive%20-%20Microsoft/BITS/Sem3/04.%20Semester-3/04.%20Semester-3/01.%20ML%20Operations/Assignment1/M2-Process-Tooling/mlruns/711318012279844930/3be0f577372146e88b57332d9359a3e0/artifacts
+end_time: 1722665165596
+entry_point_name: ''
+experiment_id: '711318012279844930'
+lifecycle_stage: active
+run_id: 3be0f577372146e88b57332d9359a3e0
+run_name: Random Forest 100 10
+run_uuid: 3be0f577372146e88b57332d9359a3e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722665155889
+status: 3
+tags: []
+user_id: nisshah
